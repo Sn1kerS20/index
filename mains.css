@@ -1,0 +1,31 @@
+.section{
+	background-color: #375C58;
+	padding: 20px 100px;
+    color: white;
+    font-family: Roboto, sans-serif;
+    line-height: 1;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.sect{
+	 max-width: 400px;
+    margin: 0 auto;
+}
+.color{
+	color: #FFA500;
+}
+.par{
+	font-size: 15px;
+}
+.shop{
+	font-size: 15px;
+	 margin: 1.5em;
+}
+
+a{
+	background-color: white;
+	font-size: 15px;
+    color: black;
+    text-decoration: none;
+}
+
